@@ -1,7 +1,7 @@
 # Furneture_e-commerce_weabsite
 # Project Report: Furneture_e-commerce_weabsite
 
-	Introduction:
+#	Introduction:
 
 Our project is an e-commerce project, where we have developed a furniture website through which customers can shop for
 furniture from the comfort of their homes. Currently, the
