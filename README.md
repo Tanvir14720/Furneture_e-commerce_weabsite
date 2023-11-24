@@ -51,4 +51,4 @@ by taking into account user experience, security of transactions and seller supp
 This commitment is designed to ensure that the website
 continues to function, remain secure and meet the evolving nature of the online environment.
 
-#web link: https://tanvir14720.github.io/Furneture_e-commerce_weabsite/
+web link: https://tanvir14720.github.io/Furneture_e-commerce_weabsite/
